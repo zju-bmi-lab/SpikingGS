@@ -21,4 +21,4 @@ Code is coming soon.
         year={2024}
     }
 
-**Repository Contributors**: [Weixing Zhang](https://github.com/shippoT), [Zongrui Li](https://zongrui.page), [Qian Zheng](https://person.zju.edu.cn/zq)
+**Repository Contributors**: [Weixing Zhang](https://github.com/shippoT), [Zongrui Li](https://zongrui.page), [Qian Zheng](https://person.zju.edu.cn/en/zq)
