@@ -3,7 +3,7 @@
 ## Overview
 This is the official implementation of "Spiking GS: Towards High-Accuracy and Low-Cost Surface Reconstruction via Spiking Neuron-based Gaussian Splatting".
 
-<a href="https://arxiv.org/abs/2410.07266">[Paper]</a>
+<a href="https://arxiv.org/abs/2410.07266">[Paper]</a> <a href="assets/supp.pdf">[Supp]</a>
 
 ![Teaser image](assets/teaser.png)
 
