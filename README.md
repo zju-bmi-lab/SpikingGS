@@ -11,7 +11,7 @@ This is the official implementation of "Spiking GS: Towards High-Accuracy and Lo
 
 ### Training Data Preparation
 
-* <a href="https://drive.google.com/drive/folders/128yBriW1IG_3NJ5Rp7APSTZsJqdJdfc1">NeRF-Synthetic dataset</a> from original NeRF.
+* <a href="https://github.com/bmild/nerf">NeRF-Synthetic dataset</a> from original NeRF.
 * <a href="https://github.com/BerkeleyAutomation/dex-nerf-datasets">Dex-NeRF dataset</a>, we use selected simulated scenes(singulated).
 * <a href="https://drive.google.com/drive/folders/1SJFgt8qhQomHX55Q4xSvYE2C6-8tFll9">DTU dataset</a>, we use preprocessed data from <a href="https://github.com/hbb1/2d-gaussian-splatting">2DGS</a>. 
 
